@@ -1,6 +1,6 @@
 # Project 1: Data Cleaning & Preparation
 
-**Internship:** DecodeLabs – Data Analytics Industrial Training (Batch 2026)
+**Internship:** DecodeLabs  Data Analytics Industrial Training (Batch 2026)
 
 ##  Objective
 Clean a raw e-commerce orders dataset by handling missing values, duplicate records, and inconsistent data formats — turning raw, messy data into a reliable "source of truth" for downstream analysis (EDA, SQL, and Visualization projects).
