@@ -44,7 +44,7 @@ Confirmed 0 duplicate OrderIDs.
 | Duplicate OrderIDs | 0 |
 
 ##  Deliverables
-- `Dataset_for_Analytics_CLEANED.xlsx` — the cleaned dataset used as input for Project 2, 3, and 4.
+- `Dataset_for_Analytics_CLEANED.xlsx`  the cleaned dataset used as input for Project 2, 3, and 4.
 
 ##  Key Skill Demonstrated
 Data cleaning, missing value imputation, duplicate detection, and data type standardization using Python/pandas.
